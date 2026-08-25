@@ -2,14 +2,10 @@
 
 ** MCA Student || 🛡️ A passionate Cybersecurity Enthusiast || Network Security Learner || Software Developer **
 
-Email Me 👉 ✉️ **[dsouza.pjohn15@gmail.com]** For Collaboration, Projects, or Anything Tech. 🚀
-
 * 🔭 **I’m currently working on:** Cybersecurity and software development projects
 * 🌱 **I’m currently learning:** Cybersecurity, Cloud Computing, DevOps & Backend Development
 * 👯 **I’m looking to collaborate on:** Cybersecurity, open-source & innovative technology projects
 * 🤔 **I’m looking for help with:** Advanced cybersecurity, cloud & DevOps technologies
-* 💬 **Ask me about:** Cybersecurity, Programming, Projects & Technology
-* 📫 **How to reach me:** [dsouza.pjohn15@gmail.com]
 * 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I love tech, breaking things, understanding how they work, and securing them. 🔐💻
 
@@ -38,8 +34,7 @@ Email Me 👉 ✉️ **[dsouza.pjohn15@gmail.com]** For Collaboration, Projects,
 ![](https://github-readme-stats.shion.dev/api?username=Johndsouza15&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Johndsouza15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Johndsouza15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Johndsouza15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 
